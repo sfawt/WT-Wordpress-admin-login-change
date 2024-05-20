@@ -5,7 +5,7 @@ Author: furkanaltintas
 Requires at least: 5.7
 Tested up to:      6.3
 Stable tag:        1.0
-
+Author : https://wt.net.tr
 
 == Description ==
 
